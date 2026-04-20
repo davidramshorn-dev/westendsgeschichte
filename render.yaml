@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: westendsgeschichte-backend
+    env: native
+    buildCommand: "./mvnw clean install -DskipTests"
+    startCommand: "java -jar target/*.jar"
+    plan: free
