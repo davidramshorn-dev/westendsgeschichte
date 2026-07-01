@@ -1,4 +1,4 @@
-package com.example.westendsgeschichte;
+package com.westendsgeschichte;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
